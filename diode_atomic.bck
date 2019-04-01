@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS_DUAL_BAT54S_SOT23
+D Double diode Schottky (Serie)
+K DEV DIODE bat54
+$ENDCMP
+#
+$CMP DTVS_QUAD_VW5.0_VC25_150W_SOT-23-6
+D Quad TVS diode, 5V working, low capacitance, SOT-23-6
+K TVS low capacitance
+$ENDCMP
+#
+$CMP DTVS_VW18_VC39.3_400W_SMA
+D Transient voltage suppressor diode (bi-directional)
+K DEV TVS TRANSIENT SUPPROESSOR ESD
+$ENDCMP
+#
+$CMP DTVS_VW4_C0.05PF_0402
+D Transient voltage suppressor diode (bi-directional)
+K DEV TVS TRANSIENT SUPRESSOR ESD VERY LOW CAPACITANCE
+$ENDCMP
+#
+$CMP DTVS_VW6.5_VC14.5_400W_SMA
+D Transient voltage suppressor diode (bi-directional)
+K DEV TVS TRANSIENT SUPPROESSOR ESD
+$ENDCMP
+#
+$CMP DZ_6V8_2%_500mW_MMELF
+D Diode zener
+K DEV DIODE
+$ENDCMP
+#
+$CMP LED_BLUE_104mcd_CLR_0805
+D smd LED
+K LED blue
+$ENDCMP
+#
+#End Doc Library

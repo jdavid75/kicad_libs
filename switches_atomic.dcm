@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW_SLIDE_DPDT_3A_16.5X10X7.3_TH
+D Slide switch DPDT
+K Switch
+$ENDCMP
+#
+$CMP SW_TACT_6X6_HT5.0MM_4P_TH
+D Tact switch 5mm height from board.
+K Switch
+$ENDCMP
+#
+#End Doc Library

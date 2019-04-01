@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LCD_MONO_128X64_AA66.5X33.2_TH_1
+D Graphics Display 128x64px transflective LCD
+K LCD Graphics 128x64 Newhaven
+$ENDCMP
+#
+#End Doc Library

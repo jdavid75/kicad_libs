@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT_HOLDER_BK-1280-PC6_TH
+D PCB mount battery holder for 3 AA batteries
+$ENDCMP
+#
+$CMP MODULE_GPS_SPK-GPSSMG19
+D module gps SPK-GPSSMG19
+$ENDCMP
+#
+$CMP MODULE_RF_LL-RXR-27_SMT
+D 900MHz ISM band digital radio module SMT
+$ENDCMP
+#
+$CMP MODULE_SATMODEM_IRIDIUM_9602
+D Satellite modem module Iridium 9603
+K iridium sat modem
+$ENDCMP
+#
+$CMP MODULE_SATMODEM_IRIDIUM_9603
+D Satellite modem module Iridium 9603
+K iridium sat modem
+$ENDCMP
+#
+#End Doc Library

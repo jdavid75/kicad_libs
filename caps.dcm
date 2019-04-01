@@ -1,0 +1,87 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C_100N_10%_16V_X7R_0402
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_100N_10%_50V_X7R_0805
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_100P_5%_50V_C0G_0603
+D ceramic capacitor
+$ENDCMP
+#
+$CMP C_10P_5%_50V_C0G_0805
+D ceramic capacitor
+$ENDCMP
+#
+$CMP C_10U0_20%_16V_TANT_0805
+D Molded Tantalum Capacitors 16V 0805 (2012 Metric)
+$ENDCMP
+#
+$CMP C_10U_10%_16V_X7R_0805
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_12P_5%_50V_C0G_0805
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_1N0_5%_50V_C0G_0805
+D CAP CER 1000PF 50V C0G/NP0 0805
+$ENDCMP
+#
+$CMP C_1N8_10%_50V_X7R_0805
+D CAP CER 1800PF 50V X7R 0805
+$ENDCMP
+#
+$CMP C_1U_10%_25V_X7R_0805
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_220P_5%_50V_C0G_0805
+D CAP CER 220PF 50V C0G/NP0 0805
+$ENDCMP
+#
+$CMP C_22P_5%_50V_C0G_0805
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_2N2_10%_50V_X7R_0805
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_2U2_10%_25V_X7R_0805
+D ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)
+$ENDCMP
+#
+$CMP C_470P_5%_50V_C0G_0805
+D CAP CER 470PF 50V C0G/NPO 0805
+$ENDCMP
+#
+$CMP C_47N_10%_50V_X7R_0805
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_47P_5%_50V_C0G_0603
+D ceramic capacitor
+$ENDCMP
+#
+$CMP C_4N7_5%_50V_X7R_0805
+D CAP CER 4700PF 50V X7R 0805
+$ENDCMP
+#
+$CMP C_4U7_10%_25V_X7R_0805
+D ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)
+$ENDCMP
+#
+$CMP C_8N2_5%_50V_X7R_0805
+D CAP CER 8200PF 50V X7R 0805
+$ENDCMP
+#
+$CMP C_DNI_0805
+D Unpolarized capacitor
+$ENDCMP
+#
+#End Doc Library

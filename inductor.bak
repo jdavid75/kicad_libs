@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# L_10U_20%_3.1A_SMT8x8
+#
+DEF ~L_10U_20%_3.1A_SMT8x8 L 0 40 N N 1 F N
+F0 "L" 25 -225 50 V V R TNN
+F1 "L_10U_20%_3.1A_SMT8x8" 200 0 50 V I C CNN
+F2 "" -150 -100 50 V V C CNN
+F3 "" -50 0 50 V V C CNN
+F4 "10uH" 25 225 50 V V L TNN "dvalue"
+F5 "20%" 250 50 60 V I C CNN "Tolerance"
+F6 "3.1A" 350 50 60 V I C CNN "Rating"
+F7 "Ferrite core SMD res 22MHz" 450 0 60 V I C CNN "Type"
+F8 "Taiyo Yuden" 550 0 60 V I C CNN "mfg1"
+F9 "NR8040T100M" 650 0 60 V I C CNN "mfg1pn"
+DRAW
+A 0 -150 50 -889 889 0 1 0 N 1 -199 1 -100
+A 0 -49 51 -889 889 0 1 0 N 1 -99 1 2
+A 0 51 51 -889 889 0 1 0 N 1 1 1 102
+A 0 148 48 -889 889 0 1 0 N 1 101 1 196
+X 1 1 0 300 100 D 50 50 1 1 P
+X 2 2 0 -300 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

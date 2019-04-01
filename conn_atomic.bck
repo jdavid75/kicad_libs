@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HDR_MALE_1X12_2.54MM_TH
+D Connector 01x12
+$ENDCMP
+#
+$CMP HDR_MALE_1X2_2.54MM_TH
+D Connector 01x02
+$ENDCMP
+#
+$CMP HDR_MALE_1X6_2.54MM_TH
+D Connector 01x06
+$ENDCMP
+#
+$CMP HDR_MALE_1X9_2.54MM_TH
+D Connector 01x9
+$ENDCMP
+#
+$CMP J_MICRO-SD_DM3D-SF_SMT
+D CONN MICRO SD CARD PUSH-PULL
+K CONN MICRO SD CARD PUSH-PULL
+$ENDCMP
+#
+$CMP J_RF_MMCX_VERT_TH
+D Coaxial Connector MMCX pcb throughole mount vertical
+$ENDCMP
+#
+$CMP J_USB_MINI-B_VERT_TH
+D B connector
+K USB USB_B mini vertical
+$ENDCMP
+#
+$CMP USB_B
+D B connector
+K USB USB_B
+$ENDCMP
+#
+#End Doc Library
