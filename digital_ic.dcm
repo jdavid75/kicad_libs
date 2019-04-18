@@ -21,6 +21,11 @@ D 8 bits serial in // out Shift Register 3 State Out
 K HCMOS SR 3State
 $ENDCMP
 #
+$CMP IC_LOG_REG_74VHC595_TSSOP16
+D 8 bits serial in // out Shift Register 3 State Out
+K HCMOS SR 3State
+$ENDCMP
+#
 $CMP IC_PROTO-BRIDGE_FT230XS_SSOP-16
 D Full Speed USB to Basic UART, SSOP-16
 K FTDI USB UART interface converter
